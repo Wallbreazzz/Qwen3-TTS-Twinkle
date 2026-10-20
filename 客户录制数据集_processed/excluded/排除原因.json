@@ -1,0 +1,14 @@
+[
+ {
+  "file": "1 - 1.wav",
+  "reason": "过短2.5s + SNR低31.8dB + 噪声高-56.2dBFS"
+ },
+ {
+  "file": "2 - 1.wav",
+  "reason": "过短2.5s + SNR低27.6dB + 噪声高-52.6dBFS + 首尾静音不足"
+ },
+ {
+  "file": "2 - 82.wav",
+  "reason": "全静音损坏(peak=-240dBFS)"
+ }
+]
